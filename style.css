@@ -170,6 +170,7 @@ nav {
     background:rgb(230,104,59);
     border-radius: 20px;
 }
+
 .skill  .skills .progress  h3{
     display:flex;
     justify-content: space-between;
@@ -347,10 +348,10 @@ nav {
 
 }
 .contact  .row  .content  .icons h3 i{
-    padding-right: 100px;
+    padding-right: 150px;
 }
 .contact  .row  .content  .icons  p{
-    font-size: 40px;
+    font-size: 20px;
     color: #000;
 
 }
